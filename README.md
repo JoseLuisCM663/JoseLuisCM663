@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://cdn.unotv.com/images/2024/02/michi-152101-1024x576.jpg">
+
 <!--
 **JoseLuisCM663/JoseLuisCM663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
